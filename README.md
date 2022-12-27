@@ -1,23 +1,29 @@
-Hola, bienvenido a mí perfil 👋. 
+Hola, bienvenido a mí perfil 👋.
+----------------
 Me llamo Joaquin Carrera, soy desarrollador Full Stack (JavaScript), actualmente brindo servicio a la plataforma de Henry como Teaching Asistent.
 
 ¿Quién soy? 
+----------------
 ▷ Me considero alguien apasionado y dedicado a la hora del aprender, soy alguien con retrospección de si mismo, quien le gusta mirar hacia delante y tomar la iniciativa a la hora de abarcar un problema y/o desafío
 
 
 ¿Por qué yo? 😁
-
+----------------
 ▷ Estoy de acuerdo en que en este ambiente y/o comunidad hay personas con excelentes habilidades técnicas. Sin embargo conmigo obtendrás a un desarrollador que aprovechara todos los desafíos y situaciones para nutrirse de conocimientos y aprendizajes, incorporando nuevas habilidades, tanto técnicas como blandas, rindiendo así mejores resultados para el equipo en un futuro no muy lejano
 
 ----------------------------------------------------------------------------------------------------------------
 
 🖥¿Cuáles Son las tecnologías que utilizo actualmente?
+----------------
+▶ Metodología Agile (SCRUM)
 
-▶Metodología Agile (SCRUM)
-▶Lenguajes: JavaScript (ES7, ES6)| SQL 
-▶Front-End: React.Js ( Hooks & Clases) | TypeScript | React-Router | Tailwind CSS | CSS | Redux
-▶Back-End: Node.js | Express.Js | API Rest
-▶Data Base: SEQUELIZE | PostgreSQL
+▶ Lenguajes: JavaScript (ES7, ES6)| SQL 
+
+▶ Front-End: React.Js ( Hooks & Clases) | TypeScript | React-Router | Tailwind CSS | CSS | Redux
+
+▶ Back-End: Node.js | Express.Js | API Rest
+
+▶ Data Base: SEQUELIZE | PostgreSQL
 
 ----------------------------------------------------------------------------------------------------------------
 
