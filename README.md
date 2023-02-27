@@ -34,7 +34,7 @@ Me llamo Joaquin Carrera, soy desarrollador Full Stack (JavaScript), actualmente
 
 ¿Hablamos? 📞
 ```env
-Email 📩 -> joaquincarrera2018@gmail.com
+Email 📩 -> joaquincarrera.developer@gmail.com
 
 Celular 📱 -> +549 299 4187714
 
