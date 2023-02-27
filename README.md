@@ -15,6 +15,7 @@ Me llamo Joaquin Carrera, soy desarrollador Full Stack (JavaScript), actualmente
 
 🖥¿Cuáles Son las tecnologías que utilizo actualmente?
 ----------------
+```env
 ▶ Metodología Agile (SCRUM)
 
 ▶ Lenguajes: JavaScript (ES7, ES6)| SQL 
@@ -24,13 +25,13 @@ Me llamo Joaquin Carrera, soy desarrollador Full Stack (JavaScript), actualmente
 ▶ Back-End: Node.js | Express.Js | API Rest
 
 ▶ Data Base: SEQUELIZE | PostgreSQL
-
+```
 ----------------------------------------------------------------------------------------------------------------
 
 Si quieres saber más acerca de mí, porque lo que leíste no es suficiente, no dudes en contactarme! 👇
 
 ¿Hablamos? 📞
-
+```env
 Email 📩 -> joaquincarrera2018@gmail.com
 
 Celular 📱 -> +549 299 4187714
@@ -38,3 +39,4 @@ Celular 📱 -> +549 299 4187714
 Linkedin -> https://www.linkedin.com/in/joaquin-ezequiel-carrera/
 
 Muchas gracias por tomarte el tiempo de leer hasta aqui :)
+```
