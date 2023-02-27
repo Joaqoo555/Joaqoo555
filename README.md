@@ -30,7 +30,7 @@ Me llamo Joaquin Carrera, soy desarrollador Full Stack (JavaScript), actualmente
 ```
 ----------------------------------------------------------------------------------------------------------------
 
-Si quieres saber más acerca de mí, porque lo que leíste no es suficiente, no dudes en contactarme! 👇
+#### Si quieres saber más acerca de mí, porque lo que leíste no es suficiente, no dudes en contactarme! 👇
 
 ¿Hablamos? 📞
 ```env
