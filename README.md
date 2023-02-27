@@ -18,13 +18,15 @@ Me llamo Joaquin Carrera, soy desarrollador Full Stack (JavaScript), actualmente
 ```env
 ▶ Metodología Agile (SCRUM)
 
-▶ Lenguajes: JavaScript (ES7, ES6)| SQL 
+▶ Lenguajes: JavaScript (ES7, ES6) | TypeScript | SQL 
 
-▶ Front-End: React.Js ( Hooks & Clases) | TypeScript | React-Router | Tailwind CSS | CSS | Redux
+▶ Front-End: React.Js ( Hooks & Clases) | Tailwind CSS | CSS | Redux
 
 ▶ Back-End: Node.js | Express.Js | API Rest
 
-▶ Data Base: SEQUELIZE | PostgreSQL
+▶ Data Base: SEQUELIZE | PostgreSQL | MongoDB
+
+▶ Otras Tecnologías : GIT, GitHub, Discord, Trello, Slack, Docker (Estudiando)
 ```
 ----------------------------------------------------------------------------------------------------------------
 
