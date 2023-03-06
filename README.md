@@ -1,6 +1,6 @@
 Hola, bienvenido a mí perfil 👋.
 ----------------
-Me llamo Joaquin Carrera, soy desarrollador Full Stack (JavaScript), actualmente brindo servicio a la plataforma de Henry como Teaching Asistent.
+Soy desarrollador Full stack (M.E.R.N.), con experiencia trabajando en Typescript, Javascript, React.JS, Express.JS, Node.JS, Tailwind, SQL entre otras tecnologías para la industria E-commerce. Busco crecer en el ámbito del desarrollo de software, aportando proactividad, liderazgo, trabajo en equipo y autonomía.
 
 ¿Quién soy? 
 ----------------
